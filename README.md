@@ -7,3 +7,6 @@ Proyecto de la Materia Introducción a la inteligencia artificial Universidad de
 * Luis Mateo Ochoa Agudelo, cc:1041329979, Ingenieria de sistemas
   
 * Duvan Esneider Gallego Jimenez, cc:1151715211, Ingenieria electrica
+
+## DATOS
+Los datos provienen del siguiente link: https://www.kaggle.com/datasets/jonbown/us-2020-traffic-accidents
