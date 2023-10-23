@@ -13,3 +13,4 @@ Los datos provienen del siguiente link: https://www.kaggle.com/datasets/jonbown/
 
 ## VIDEOS
 
+[Video Entrega 2](https://youtu.be/WiDKdEeM3jE?si=U3AD_r1vrQvWDNBC)
